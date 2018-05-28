@@ -1,0 +1,16 @@
+node_modules
+.idea
+/test/test_api_keys.json
+/build
+npm-debug.log
+source/images
+.DS_Store
+
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
